@@ -1,4 +1,5 @@
-﻿Console.Write("Cual es tu nombre?");
+﻿// Mi primer ejercicio en C#
+Console.Write("Cual es tu nombre?");
 string nombre = Console.ReadLine();
 
 Console.Write("cuantos años tienes?");
