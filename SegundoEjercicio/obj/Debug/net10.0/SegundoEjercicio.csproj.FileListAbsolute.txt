@@ -1,0 +1,14 @@
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.AssemblyInfoInputs.cache
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.AssemblyInfo.cs
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\bin\Debug\net10.0\SegundoEjercicio.exe
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\bin\Debug\net10.0\SegundoEjercicio.deps.json
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\bin\Debug\net10.0\SegundoEjercicio.runtimeconfig.json
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\bin\Debug\net10.0\SegundoEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\bin\Debug\net10.0\SegundoEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\refint\SegundoEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\SegundoEjercicio.genruntimeconfig.cache
+C:\Users\orono\EstiloSync\portafolio\SegundoEjercicio\obj\Debug\net10.0\ref\SegundoEjercicio.dll

@@ -1,0 +1,14 @@
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.AssemblyInfoInputs.cache
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.AssemblyInfo.cs
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\bin\Debug\net10.0\TercerEjercicio.exe
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\bin\Debug\net10.0\TercerEjercicio.deps.json
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\bin\Debug\net10.0\TercerEjercicio.runtimeconfig.json
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\bin\Debug\net10.0\TercerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\bin\Debug\net10.0\TercerEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\refint\TercerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\TercerEjercicio.genruntimeconfig.cache
+C:\Users\orono\EstiloSync\portafolio\TercerEjercicio\obj\Debug\net10.0\ref\TercerEjercicio.dll

@@ -1,0 +1,14 @@
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\bin\Debug\net10.0\PrimerEjercicio.exe
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\bin\Debug\net10.0\PrimerEjercicio.deps.json
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\bin\Debug\net10.0\PrimerEjercicio.runtimeconfig.json
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\bin\Debug\net10.0\PrimerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\bin\Debug\net10.0\PrimerEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.AssemblyInfoInputs.cache
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.AssemblyInfo.cs
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\refint\PrimerEjercicio.dll
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.pdb
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\PrimerEjercicio.genruntimeconfig.cache
+C:\Users\orono\EstiloSync\portafolio\PrimerEjercicio\obj\Debug\net10.0\ref\PrimerEjercicio.dll
